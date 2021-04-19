@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - :pineapple: I love math and economics, programming - especially fused into data science
-- 🔭 I’m currently working on promotional analysis at P&G.
+- :briefcase: I’m currently working on promotional analysis at P&G.
 - 🌱 I’m continously furthering my knowledge on applied data science and programming.
 - 👯 I’m looking to collaborate on data science projects:
   - Recommender Engines
