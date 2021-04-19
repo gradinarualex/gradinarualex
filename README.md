@@ -7,14 +7,13 @@
   - Recommender Engines
   - Time Series Forecasting
   - Classification Models
- 
-- [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=gradinarualex&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-
-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gradinarualex)](https://github.com/anuraghazra/github-readme-stats)
- 
 - 📫 How to reach me:
   - :office: [LinkedIn](https://www.linkedin.com/in/gradinaru-alex/)
   - :e-mail: [Email](mailto:gradinaru.alex@gmail.com)
+
+[![Alex's github stats](https://github-readme-stats.vercel.app/api?username=gradinarualex&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gradinarualex)](https://github.com/anuraghazra/github-readme-stats)
 
 - :star: My Top Recommendations:
   - :books: Books:
