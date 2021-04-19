@@ -3,14 +3,12 @@
 - :pineapple: I love math and economics, programming - especially fused into data science
 - 🔭 I’m currently working on promotional analysis at P&G.
 - 🌱 I’m continously furthering my knowledge on applied data science and programming.
-
 - 👯 I’m looking to collaborate on data science projects:
   - Recommender Engines
   - Time Series Forecasting
   - Classification Models
  
 - [![Alex's github stats](https://github-readme-stats.vercel.app/api?username=gradinarualex&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
-/api?username=gradinarualex&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
 
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gradinarualex)](https://github.com/anuraghazra/github-readme-stats)
  
